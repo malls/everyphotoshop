@@ -1,4 +1,4 @@
-var textFile = File("/Users/Forrest/code/photoshop/tweet.txt");
+var textFile = File("your/location/tweet.txt");
 
 if(textFile.exists){
         textFile.remove();

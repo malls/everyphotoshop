@@ -19,6 +19,8 @@ access_token=THINGS
 access_token_secret=ARE
 ```
 
+Change the file location in tweet.js to whatever directory the project is in (must be explicit).
+
 In Photoshop, navigate to File/Scripts/Scripts Event Manager..
 
 In the 'Photoshop Event' dropdown menu, choose 'Open File'
