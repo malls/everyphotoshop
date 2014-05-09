@@ -1,4 +1,4 @@
-##EveryPhotoshop
+##@EveryPhotoshop
 
 Automated tweets of everything I open with PhotoShop. Currently in action at twitter.com/everyphotoshop
 
