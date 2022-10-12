@@ -2,7 +2,7 @@
 
 Automated tweets of everything I open with PhotoShop. Currently in action at http://twitter.com/everyphotoshop
 
-###TO CONFIGURE
+### TO CONFIGURE
 
 In your terminal:
 
